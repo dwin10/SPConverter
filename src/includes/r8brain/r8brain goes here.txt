@@ -1,0 +1,21 @@
+Sourced from "https://github.com/avaneev/r8brain-free-src"
+
+This directory should contain the following files:
+CDSPBlockConvolver.h
+CDSPFIRFilter.h
+CDSPFracInterpolator.h
+CDSPHBDownsampler.h
+CDSPHBDownsampler.inc
+CDSPHBUpsampler.h
+CDSPHBUpsampler.inc
+CDSPProcessor.h
+CDSPRealFFT.h
+CDSPResampler.h
+CDSPSincFilterGen.h
+fft4g.h
+pffft.cpp
+pffft.h
+r8bbase.cpp
+r8bbase.h
+r8bconf.h
+r8butil.h
